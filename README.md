@@ -1,18 +1,6 @@
 # htmxgo
 
-## License
-- Source code is licensed under [BSD 3-Clause License](LICENSE)
-- HTMX library source code is licensed under [BSD 3-Clause License](LICENSE-htmx)
-
-```go
-import "github.com/ninedraft/htmx-go"
-```
-
-```sh
-go get -v github.com/ninedraft/htmx-go@latest
-```
-
-package htmxgo provides utilities for serving htmx library.
+pckage htmxgo provides utilities for serving htmx library.
 
 Look https://htmx.org/ for more information about htmx.
 
@@ -25,6 +13,21 @@ Currently supported encodings are:
 - deflate 
 - gzip 
 - brotli
+
+## License
+
+- Module: [BSD-3 Clause License](LICENSE)
+- HTMX lib: [BSD-3 Clause License](LICENSE-htmx)
+
+## Usage
+
+```go
+import "github.com/ninedraft/htmx-go"
+```
+
+```sh
+go get -v github.com/ninedraft/htmx-go@latest
+```
 
 ## Example
 
