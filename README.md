@@ -16,8 +16,8 @@ Currently supported encodings are:
 
 ## License
 
-- Module: [BSD-3 Clause License](LICENSE)
-- HTMX lib: [BSD-3 Clause License](LICENSE-htmx)
+- Module: [BSD 3-Clause License](LICENSE)
+- HTMX lib: [BSD 2-Clause License](LICENSE-htmx)
 
 ## Usage
 
