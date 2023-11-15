@@ -44,3 +44,6 @@ Updating htmx version:
 ```sh
 wget 'https://unpkg.com/htmx.org@1.9.8/dist/htmx.min.js' -O htmx.min.js
 ```
+
+## But why?
+For pet experiments. I don't want to import htmx via unpkg nor do I want to setup tooling for frontend stuff.
